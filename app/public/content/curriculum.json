@@ -1,0 +1,255 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "title": "Behavioral Finance",
+      "color": "#6366f1",
+      "readings": [
+        {
+          "id": "1-1",
+          "title": "The Behavioral Biases of Individuals",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "1-2",
+          "title": "Behavioral Finance and Investment Processes",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Capital Market Expectations",
+      "color": "#8b5cf6",
+      "readings": [
+        {
+          "id": "2-1",
+          "title": "Capital Market Expectations, Part 1: Framework and Macro Considerations",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "2-2",
+          "title": "Capital Market Expectations, Part 2: Forecasting Asset Class Returns",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Asset Allocation",
+      "color": "#0ea5e9",
+      "readings": [
+        {
+          "id": "3-1",
+          "title": "Overview of Asset Allocation",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "3-2",
+          "title": "Principles of Asset Allocation",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "3-3",
+          "title": "Asset Allocation with Real-World Constraints",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Fixed Income Portfolio Management",
+      "color": "#10b981",
+      "readings": [
+        {
+          "id": "4-1",
+          "title": "Overview of Fixed-Income Portfolio Management",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "4-2",
+          "title": "Liability-Driven and Index-Based Strategies",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "4-3",
+          "title": "Yield Curve Strategies",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "4-4",
+          "title": "Fixed-Income Active Management: Credit Strategies",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Equity Portfolio Management",
+      "color": "#f59e0b",
+      "readings": [
+        {
+          "id": "5-1",
+          "title": "Overview of Equity Portfolio Management",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "5-2",
+          "title": "Passive Equity Investing",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "5-3",
+          "title": "Active Equity Investing: Strategies",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "5-4",
+          "title": "Active Equity Investing: Portfolio Construction",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Alternative Investments",
+      "color": "#ef4444",
+      "readings": [
+        {
+          "id": "6-1",
+          "title": "Hedge Fund Strategies",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "6-2",
+          "title": "Asset Allocation to Alternative Investments",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Private Wealth Management",
+      "color": "#f97316",
+      "readings": [
+        {
+          "id": "7-1",
+          "title": "Overview of Private Wealth Management",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "7-2",
+          "title": "Topics in Private Wealth Management",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "7-3",
+          "title": "Risk Management for Individuals",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Portfolio Management for Institutional Investors",
+      "color": "#84cc16",
+      "readings": [
+        {
+          "id": "8-1",
+          "title": "Portfolio Management for Institutional Investors",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Trading, Performance Evaluation & Manager Selection",
+      "color": "#06b6d4",
+      "readings": [
+        {
+          "id": "9-1",
+          "title": "Trade Strategy and Execution",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "9-2",
+          "title": "Portfolio Performance Evaluation",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "9-3",
+          "title": "Investment Manager Selection",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Cases in Portfolio Management",
+      "color": "#ec4899",
+      "readings": [
+        {
+          "id": "10-1",
+          "title": "Cases in Portfolio Management",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Ethical and Professional Standards",
+      "color": "#64748b",
+      "readings": [
+        {
+          "id": "11-1",
+          "title": "Ethics and Trust in the Investment Profession",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "11-2",
+          "title": "Code of Ethics and Standards of Professional Conduct",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "11-3",
+          "title": "Guidance for Standards I–VII",
+          "stageCount": 0,
+          "stages": []
+        },
+        {
+          "id": "11-4",
+          "title": "Global Investment Performance Standards (GIPS)",
+          "stageCount": 0,
+          "stages": []
+        }
+      ]
+    }
+  ]
+}
